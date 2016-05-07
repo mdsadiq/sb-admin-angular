@@ -43,6 +43,6 @@
     "test": "grunt test",
     "start": "grunt serve",
     "dist": "grunt serve:dist",
-    "postinstall": "bower cache clean && bower install"
+    "postinstall": "bower install"
   }
 }
